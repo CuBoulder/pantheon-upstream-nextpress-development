@@ -1,5 +1,5 @@
 {
-    "name": "tirazel/nextpress-upstream",
+    "name": "cu-boulder/nextpress-upstream",
     "description": "Install Nextpress with Composer on Pantheon.",
     "type": "project",
     "license": "MIT",
